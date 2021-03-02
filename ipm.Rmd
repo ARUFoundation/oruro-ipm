@@ -3,7 +3,7 @@ title: "Pobreza Multidimensional"
 output: 
   flexdashboard::flex_dashboard:
     navbar:
-    - {title: "En Redatam", href: " http://aru.noip.me/", align: right}  
+    - {title: "En Redatam", href: "https://drive.google.com/file/d/1MAMFlfsuuzD38d9Xu8EIVXw4T6G_ooOS/view?usp=sharing", align: right}  
     - {icon: "fa-info-circle", href: "https://www.aru.org.bo/", align: right}  
     orientation: rows
     vertical_layout: scroll
